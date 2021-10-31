@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "require": "^2.4.20",
+    "underscore": "^1.13.1",
+    "web3": "^1.0.0-beta2",
+    "web3-utils": "^1.6.0"
+  }
+}
